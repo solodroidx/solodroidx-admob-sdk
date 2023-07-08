@@ -9,6 +9,7 @@ import com.solodroid.ads.sdk.util.OnShowAdCompleteListener;
 
 public class AppOpenAdAppLovin {
 
+    public boolean isShowingAd = false;
     public AppOpenAdAppLovin() {
     }
 
